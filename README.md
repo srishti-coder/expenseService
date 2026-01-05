@@ -1,4 +1,4 @@
-# Expense Service (Spring Boot)
+# Expense Service 
 
 Expense Service is a Spring Boot–based microservice responsible for managing
 user expenses in an Expense Tracker application.
